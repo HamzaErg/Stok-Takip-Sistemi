@@ -1,0 +1,73 @@
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.frmGiris.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmAnaSayfa.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunler.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmCalısanlar.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunKayit.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\EntityFramework.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\EntityFramework.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.xml
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunKayit.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunler.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.frmGiris.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.pdb
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmIsciler.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmIsciKayit.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmAnaSayfaYonetici.resources
+C:\Users\hamza\OneDrive\Masaüstü\Stok_Takip_sistemi - Kopya (2)\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmAnaSayfaPersonel.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe.config
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\Stok_Takip_sistemi.pdb
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.dll
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.dll
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.xml
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\bin\Debug\System.Data.SQLite.xml
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmAnaSayfaPersonel.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmAnaSayfaYonetici.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmIsciKayit.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmIsciler.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunKayit.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Forms.frmUrunler.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.frmGiris.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.csproj.CopyComplete
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.exe
+C:\Users\hamza\OneDrive\Belgeler\GitHub\Stok-Takip-Sistemi\Stok_Takip_sistemi\Stok_Takip_sistemi\obj\Debug\Stok_Takip_sistemi.pdb
